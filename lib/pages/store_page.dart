@@ -26,7 +26,7 @@ class StorePage extends StatelessWidget {
                 width: 12,
               ),
               Text(
-                'Cherry Fresh Fruit Market',
+                'Fresh Market',
                 style: greyTextStyle.copyWith(
                   fontSize: 18,
                   fontWeight: bold,
